@@ -1,0 +1,21 @@
+# Compiled files
+*.exe
+*.pyc
+*.pyo
+
+# Cache
+__pycache__/
+
+# Config with personal data
+config.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+env/
